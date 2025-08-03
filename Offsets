@@ -7,3 +7,4 @@ RootComponent = 0x138; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&ty
 GameState = 0x120; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=UWorld&member=GameState
 PlayerArray = 0x240; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=AGameStateBase&member=PlayerArray
 PawnPrivate = 0x288; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=APlayerState&member=PawnPrivate
+Mesh = 0x288; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=ACharacter&member=Mesh
