@@ -9,3 +9,4 @@ PlayerArray = 0x240; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type
 PawnPrivate = 0x288; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=APlayerState&member=PawnPrivate
 Mesh = 0x288; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=ACharacter&member=Mesh
 PlayerNamePrivate = 0x308; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=APlayerState&member=PlayerNamePrivate
+JumpMaxCount = 0x344; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=ACharacter&member=JumpMaxCount
