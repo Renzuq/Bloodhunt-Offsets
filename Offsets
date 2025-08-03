@@ -3,3 +3,4 @@ OwningGameInstance = 0x180; https://dumpspace.spuckwaffel.com/Games/?hash=a760db
 LocalPlayers = 0x38; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=UGameInstance&member=LocalPlayers
 PlayerController = 0x30; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=UPlayer&member=PlayerController
 AcknowledgedPawn = 0x2a8; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=APlayerController&member=AcknowledgedPawn
+RootComponent = 0x138; https://dumpspace.spuckwaffel.com/Games/?hash=a760dba6&type=classes&idx=AActor&member=RootComponent
